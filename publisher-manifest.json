@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "7e486b004e58a7d918406fc1",
+  "owner": "ysydkjm",
+  "repo": "page-e9e465729bdb9cf5058ed76f",
+  "title": "MaTrix",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e9e465729bdb9cf5058ed76f",
+      "a": "MaTrix",
+      "b": "2027最新官网",
+      "entity": "MaTrix",
+      "brand": "MaTrix",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "cdf67ba32722f36bcc0155cdcdae5acfccc1ee54e30b8792f6e2c80585faceaa",
+      "content": {
+        "primary_entity": "MaTrix",
+        "keyword1": "MaTrix",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择合适的客户端，手机、电脑与路由器各有匹配方案，订阅配置以客户端文档为准。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据月流量与设备数选择套餐，再按客户端文档完成订阅配置，即可开始使用 MaTrix。",
+          "AI_CLOSING_TITLE": "选对套餐，配置简单",
+          "AI_DESCRIPTION": "，MaTrix 提供基础版、旗舰版与团队版三档方案，月付 15 元起，年付更划算。基础版适合单人日常使用，旗舰版增加 IPLC 专线与更多在线设备，团队版面向多人共享与高流量场景。按设备数、月流量和订阅周期对比后即可选择。",
+          "AI_FEATURES_INTRO": "从套餐对比、设备需求与订阅周期三个角度了解 MaTrix。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版月付 15 元、旗舰版月付 35 元、团队版月付 85 元，年付分别约 150 元、350 元、850 元。",
+          "AI_FEATURE_TEXT_2": "基础版 3 台设备，旗舰版 5 台，团队版 20 台，按日常在线设备数量选择即可。",
+          "AI_FEATURE_TEXT_3": "每月流量从 100GB 到 1000GB，轻度浏览、流媒体或团队共享各有对应档位。",
+          "AI_FEATURE_TITLE_1": "对比套餐价格",
+          "AI_FEATURE_TITLE_2": "确认设备数量",
+          "AI_FEATURE_TITLE_3": "匹配月流量",
+          "AI_GUIDE_INTRO": "先确认套餐与设备需求，再按客户端文档完成订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "MaTrix 为个人与团队提供海外加速订阅，基础版、旗舰版、团队版三档可选，覆盖不同设备数量与月流量需求。按使用场景选套餐，依客户端文档导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_1": "月付 15 元起，年付更省",
+          "AI_HIGHLIGHT_2": "最多 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "IPLC 专线与流媒体解锁",
+          "AI_PLANS_INTRO": "基础版适合单人轻量使用，旗舰版支持 5 台设备与 IPLC 专线，团队版面向高流量与多人共享。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按设备数量与每月流量，在基础版、旗舰版、团队版中选择合适档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐对客户端版本与系统的适配要求，确认设备环境可用。",
+          "AI_STEP_TEXT_3": "参照所选客户端的配置文档导入订阅，完成后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "MaTrix 海外加速",
+          "AI_FAQ_ANSWER_1": "基础版 ¥15/月含 100GB 流量、3 台设备；旗舰版 ¥35/月含 300GB 流量、5 台设备；团队版 ¥85/月含 1000GB 流量、20 台设备。按年付分别只需 ¥150、¥350、¥850，长期使用年付更划算。",
+          "AI_FAQ_ANSWER_2": "打开客户端订阅页面，粘贴购买后获得的订阅地址，保存并更新即可拉取节点。Windows 用 Clash Verge，macOS 用 ClashX，iOS 用 Shadowrocket，Android 用 Clash Meta，按客户端文档操作更顺利。",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。如果家里有多部手机、电脑和电视盒子，建议直接选旗舰版或团队版，无需反复切换登录。",
+          "AI_FAQ_ANSWER_4": "月付适合短期体验，先试一个月看看线路质量。年付相当于十个月价格，长期稳定使用更省预算。如果不确定流量消耗，可先选基础版，后续再升级到旗舰版或团队版。",
+          "AI_FAQ_ANSWER_5": "旗舰版提供全节点原生流媒体解锁与 IPLC 专线游戏加速优化，并配 7x24 优先工单支持。团队版额外提供 VIP 专属高带宽节点与企业定制路由，适合对带宽和延迟要求更高的场景。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "MaTrix 有哪几种套餐，价格和流量分别是多少？",
+          "AI_FAQ_QUESTION_2": "怎么把 MaTrix 订阅导入客户端？",
+          "AI_FAQ_QUESTION_3": "同时可以在几台设备上使用 MaTrix？",
+          "AI_FAQ_QUESTION_4": "月付和年付怎么选更合适？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版比基础版多了哪些权益？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "j3s8vb.cn",
+    "host": "j3s8vb.cn"
+  },
+  "file_hashes": {
+    "index.html": "464b89ad87d3b8061c5814649b22dcf4aeb0c1650f5776be2513a025b34bc3fc",
+    "sitemap.xml": "372c7e392fd69a4a762fcee8a32b67ec97d7ab827422f63214fc5e0ad82f0dfe",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e62b90d299a2519f5700e4488d9c178a357cbed9c1d3c43e8583ee9b695f8b8a",
+    "robots.txt": "7217e1fddf763108390cfcbfd4312ab198ca04891a63ddf504ba79fbfb575328",
+    "638335aae870b07d76dfe1b929c95231.txt": "d46b56e2e6b11f5b044d444ae91bb1599c8c0ea0fff1bb44110ba2f68c774caa"
+  },
+  "revision": "200222ccb214a21ab8e53c1eb4f71db629ce238206af1eeae58cfcf1b3ecd10b"
+}

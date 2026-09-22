@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://j3s8vb.cn/sitemap.xml
